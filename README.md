@@ -7,5 +7,6 @@ This project will explore a data set (TBD)
 
 * bullet point 1
 * bullet point 2
+* bullet point 3
 
   
